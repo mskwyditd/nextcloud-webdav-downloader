@@ -14,7 +14,7 @@ Default destination path (download path) is folder from which the code is execut
 
 ### Example execution
 
-    PS C:\Users\User\Desktop> python .\nc_downloader.py -l *username*
+    $ python .\nc_downloader.py -l *username*
     Password: *password*
     user.name/
     Documents/
